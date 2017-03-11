@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Knowledge">
+        <menu>
+            <item
+                android:id="@+id/aid"
+                android:title="Get First AID" />
+            <item
+                android:id="@+id/note"
+                android:title="Note Pad" />
+
+            <item
+                android:id="@+id/web"
+                android:title="Web Browser" />
+
+
+        </menu>
+    </item>
+
+
+    <item android:title="Services">
+        <menu>
+            <item
+                android:id="@+id/pctech"
+                android:title="PC Technicians" />
+            <item
+                android:id="@+id/mech"
+                android:title="Mechanic" />
+            <item
+                android:id="@+id/elec"
+                android:title="Electrician" />
+            <item
+                android:id="@+id/services"
+                android:title="Joint Services" />
+
+
+        </menu>
+    </item>
+
+<item android:title="General Services">
+    <menu>
+        <item
+            android:id="@+id/ticket"
+            android:title="Ticket Booking" />
+    </menu>
+</item>
+
+
+    <item android:title="About ">
+        <menu>
+
+
+                <item
+                    android:id="@+id/about"
+                    android:enabled="false"
+                    android:title="Copyright(c) By " />
+
+                <item
+                    android:enabled="false"
+                    android:title="Prathamesh Bhor, " />
+                <item
+                    android:enabled="false"
+                    android:title="Suyash Shirsat," />
+                <item
+                    android:enabled="false"
+                    android:title="Karan J. Mhatre" />
+
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">S.O.S</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- _________________________ -->
+
+    <!-- Fire Brigade (Done) -->
+    <string name="Vashi_Fire_Station">27660101</string>
+    <string name="CBD_Belapur_Fire_Station">27572111</string>
+    <string name="Airoli_Fire_Station">27606600</string>
+    <string name="Kalamboli_Fire_Station">27420138</string>
+    <string name="Thane_Fire_Station">25366401</string>
+    <string name="New_Panvel_Fire_Station">27452337</string>
+
+    <!-- Ambulance (Done )-->
+    <string name="Sanjyoti_Hospital_Vashi">9167731111</string>
+    <string name="Aayush_Muncipeciality_Hospital_Airoli">9320577900</string>
+    <string name="Achary_Shri_Nanesh_Hospital_CBD">27577770</string>
+    <string name="Apollo_Hospital_CBD_Belapur">33503350</string>
+    <string name="Indian_Burns_Research_Society_Airoli">27796660</string>
+    <string name="Critical_ICU_Super_Speciality_Center_Airoli">9833181327</string>
+    <string name="Laxmi_MUlti_Speciality_ICU_Ghansoli">27545728</string>
+    <string name="Mangalprabhu_Nursing_Home_Juinagar">9619481533</string>
+    <string name="Ashirwad_Hospital_koparkhairne">9819302324</string>
+    <string name="OM_Gagangiri_Hospital_koparkhairne">9833571031</string>
+    <string name="Sai_Snehdeep_Hospital_koparkhairne">7057433768</string>
+    <string name="Dr_Dy_Patil_Hospital_Nerul">27735901</string>
+    <string name="Terana_Sahyadri_Speciality_Hospital_Nerul">7045457295</string>
+    <string name="Manak_Health_care_Hospital_Nerul">9821895757</string>
+    <string name="Dr_Mahajan_Hospital_Rabale">27691677</string>
+
+    <string name="Dr_R_N_Patils_Suraj_Hospital_Sanpada">9930496987</string>
+    <string name="New_Milenium_Multi_Speciality_Hospital_Sanpada">8422090028</string>
+    <string name="Mahatma_Gandhi_Mission_Trust_New_Bombay_Hospital_Vashi">9819460530</string>
+    <string name="Hiranandani_Hospital_Vashi">39199054</string>
+
+    <!-- Police Station (Done) -->
+    <string name="CBD_Belapur_Police_Station">27580255</string>
+    <string name="Rabale_Police_Station">9993402670</string>
+
+    <string name="Sanpada_Police_Station">27751406</string>
+    <string name="Kharghar_Police_Station">27742500</string>
+    <string name="Kamothe_Police_Station">27431413</string>
+    <string name="Vashi_Police_Station">27820346</string>
+    <string name="Nerul_Police_Station">27702346</string>
+    <string name="Panvel_Police_Station">27452333</string>
+
+
+    <!-- Anti Courruption Bureau Office (Done) -->
+    <string name="Anti_Courruption_Bureau_Office">2783 3344</string>
+
+
+    <!-- CID (Done) -->
+    <string name="CID">27571485</string>
+
+    <!-- Garbage Collector (Done)-->
+    <string name="Garbage_Complaints">9769894944</string>
+
+    <!-- Blood Bank (Done) -->
+    <string name="NMMC_Vashi_Hospital_Blood_Bank_Vashi">27888750</string>
+    <string name="Saikrupa_JVP_Blood_Bank_Vashi">27890185</string>
+    <string name="MGM_Bombay_Hospital_Blood_Bank_Vashi">61526642</string>
+    <string name="Hindustan_Hospital_Fortis_Blood_Bank_Vashi">39199471</string>
+    <string name="Dr_DY_Patil_Hospital_Blood_Bank_Nerul">27735955</string>
+    <string name="Terna_Blood_Bank_Nerul">61578390</string>
+    <string name="Sadguru_Blood_Bank_Koparkhairne">27556000</string>
+
+
+    <!-- MSEB (Done)-->
+    <string name="MSEB_Koparkhairne">785102800</string>
+    <string name="MSEB_New_Panvel">27459045</string>
+    <string name="MSEB_CBD_Belapur">27571926</string>
+    <string name="MSEB_Nerul1">2701930</string>
+    <string name="MSEB_Vashi2">27826248</string>
+    <string name="MSEB_Vashi3">27825761</string>
+    <string name="MSEB_Airoli">27796709</string>
+    <string name="MSEB_Rabale">27607534</string>
+    <string name="MSEB_Ghansoli">27607536</string>
+    <string name="MSEB_Mahape">27630425</string>
+
+
+    <!-- Disaster Managment (Done)-->
+    <string name="Disaster_Management1">27567060</string>
+    <string name="Disaster_Management2">27567061</string>
+
+
+    <!-- Encroachment Department (Done) -->
+    <string name="Encroachment_Department1">1800222309</string>
+    <string name="Encroachment_Department2">27567150</string>
+
+
+    <!-- Consumer Court -->
+    <string name="Consumer_Court">27575480</string>
+
+
+    <!-- -->
+    <string-array name="planets_array">
+        <item>---</item>
+        <item>Mumbai</item>
+        <item>Delhi</item>
+        <item>Bengaluru</item>
+        <item>Hyderabad</item>
+        <item>Ahmedabad</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+        <item>Surat</item>
+        <item>Pune</item>
+        <item>Jaipur</item>
+        <item>Lucknow</item>
+        <item>Kanpur</item>
+        <item>Nagpur</item>
+        <item>Indore</item>
+        <item>Bhopal</item>
+        <item>Agra</item>
+
+    </string-array>
+
+    <!-- -->
+    <string-array name="travel">
+        <item>Bus</item>
+        <item>Railway</item>
+        <item>Flight</item>
+        <item>Taxi</item>
+    </string-array>
+
+
+    <string name="action_new">New Note</string>
+    <string name="title_activity_new_note">NewNote</string>
+    <string name="NewNote">Enter Note Here</string>
+    <string name="action_done">Done</string>
+    <string name="action_saveNote">Save</string>
+    <string name="action_discardNote">Discard</string>
+    <string name="title_activity_e_note">Old Note</string>
+
+
+
+
+
+    <string name="max_speed">Max Speed</string>
+    <string name="average_speed">Average Speed</string>
+    <string name="distance">Distance</string>
+    <string name="time">Time</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="satellite">Satellites</string>
+
+    <string name="waiting_for_fix">Waiting for GPS fix â€¦</string>
+    <string name="gps_disabled">GPS disabled</string>
+    <string name="please_enable_gps">In order to use this app you need the GPS to be enabled.</string>
+
+    <string name="running">Route in processâ€¦</string>
+    <string name="notification">Max Speed : %1$s, Distance : %2$s.</string>
+
+    <string name="settings">Settings</string>
+    <string name="app_info">About this app</string>
+    <string name="pref_auto_average">Automatically detect stop time.</string>
+    <string name="pref_auto_average_summary">The time spent at stop will not count in the average speed.</string>
+    <string name="pref_miles_per_hour">Use miles per hour</string>
+    <string name="pref_miles_per_hour_summary">Display the speed in mi/h instead of km/h</string>
+
+    <string name="license">License</string>
+    <string name="donate">Donate</string>
+    <string name="donate_summary">Click in order to support my work :) â€¦</string>
+    <string name="source_code">GitHub</string>
+    <string name="source_code_summary">Access to the source code.</string>
+    <string name="version">Speedmeter Version</string>
+
+    <string name="noti_id" translatable="false">Speedmeterisanid</string>
+    <string name="github" translatable="false">https://github.com/flyingrub/SpeedMeter</string>
+    <string name="license_type" translatable="false">GNU General Public License 2</string>
+    <string name="doante_url" translatable="false">https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6DE8SFMJKRVK2</string>
+</resources>
